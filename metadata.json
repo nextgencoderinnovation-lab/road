@@ -1,0 +1,6 @@
+{
+  "name": "RoadPulse AI",
+  "description": "Real-time road surface hazard detection, AR HUD telemetry, civic repairs tracking, and municipal heatmaps.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
